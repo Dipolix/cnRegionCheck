@@ -1,0 +1,9 @@
+name: cnRegionCheck
+main: si.craft.cnRegionCheck.main
+version: 1.0
+author: CraftNetwork
+description: >
+             CraftNetwork Tools!
+
+website: http://www.craft.si
+load: startup
